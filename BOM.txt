@@ -1,0 +1,19 @@
+Qty Value         Device          Package      Parts      Description                          MF MPN       OC_FARNELL OC_NEWARK
+1                 PINHD-1X2       1X02         JP2        PIN HEADER                                                            
+1                 PINHD-1X5       1X05         JP1        PIN HEADER                                                            
+1                 PINHD-1X7       1X07         JP3        PIN HEADER                                                            
+3   .1uf          C-EU025-024X044 C025-024X044 C1, C5, C6 CAPACITOR, European symbol                                            
+2   100k          R-US_0204/2V    0204V        R5, R7     RESISTOR, American symbol                                             
+3   100uf         CPOL-USE1.8-4   E1,8-4       C4, C7, C8 POLARIZED CAPACITOR, American symbol                                  
+2   10K           R-US_0204/2V    0204V        R1, R3     RESISTOR, American symbol                                             
+1   16MHz         CRYSTALHC18U-V  HC18U-V      Q1         CRYSTAL                                           unknown    unknown  
+1   1N4148        DIODE-D-2.5     D-2.5        D1         DIODE                                                                 
+2   1k            R-US_0204/2V    0204V        R2, R8     RESISTOR, American symbol                                             
+1   220Ω          R-US_0204/2V    0204V        R4         RESISTOR, American symbol                                             
+1   22k           R-US_0204/2V    0204V        R6         RESISTOR, American symbol                                             
+2   22pf          C-EU025-024X044 C025-024X044 C2, C3     CAPACITOR, European symbol                                            
+1   6N137         6N137           DIL08        IC4        MOTOROLA OPTO COUPLER                   6N137     1328376    52M1895  
+1   AVR-ISP-6VERT AVR-ISP-6VERT   AVR-ISP-6    JP5        AVR ISP-6 Serial Programming Header                                   
+1   MAX528CPP     MAX528CPP       DIL20        IC3        DIGITAL/ANALOG CONVERTER                MAX528CPP 1379992    78C2818  
+1   MEGA8-P       MEGA8-P         DIL28-3      IC1        MICROCONTROLLER                                   unknown    unknown  
+1   TL072P        TL072P          DIL08        IC2        OP AMP                                                                
